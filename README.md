@@ -1,2 +1,4 @@
 # SEBPT19-SQ
-Hi My name is Vinny
+Hi! My name is Vinny.
+
+Doing homework 1
